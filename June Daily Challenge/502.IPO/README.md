@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/3sum">502.IPO</a>
+<h2><a href="https://leetcode.com/problems/ipo">502.IPO</a>
 
 ### Hard
 ## Problem Description
